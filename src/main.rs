@@ -1,4 +1,11 @@
-// Logger
+/* 
+Problem: Easy to use logger. 
+Maintainer: github.com/python128
+Target Users: CLI users
+Target UI: Linux, any CLI UI
+*/
+
+
 use std::io::Write;
 use std::io::Read;
 use std::fs::OpenOptions;
