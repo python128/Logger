@@ -1,4 +1,4 @@
-//Logger
+// Logger
 use std::io::Write;
 use std::io::Read;
 use std::fs::OpenOptions;
